@@ -1,7 +1,7 @@
 {
-  "name": "redux-tutorial",
+  "name": "@TODO change this",
   "version": "1.0.0",
-  "description": "tutorial by Dan Abramov's videos",
+  "description": "@TODO change this",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon --exec babel-node src/index.js",
